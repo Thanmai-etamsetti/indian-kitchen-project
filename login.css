@@ -1,0 +1,29 @@
+.contactus{
+    width: 600px;
+    margin: 100px;
+    padding: 20px;
+    background-color:#de6600;
+    border-radius: 5px;
+    margin-left: 400px;
+    margin-bottom: 200px;
+
+}
+h1{
+    text-align: center;
+}
+button{
+    width: 40%;
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+    color: white;
+    border-radius: 4px;
+    color: #de6600;
+    margin-left:150px;
+}
+
+input{
+    width: 95%;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 4px;
+}
